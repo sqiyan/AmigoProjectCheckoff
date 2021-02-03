@@ -16,6 +16,9 @@ ISTD 50.001 INTRODUCTION TO INFORMATION SYSTEMS AND PROGRAMMING
 
 1004241 	Amrish Dev Sandhu
 
+You may view our project video here!
+[![Watch the video](https://img.youtube.com/vi/So0D1uWa1vM/maxresdefault.jpg)](https://youtu.be/So0D1uWa1vM)]
+
 
 # **Table of Contents**
 
